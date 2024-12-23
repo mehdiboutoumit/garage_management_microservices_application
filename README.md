@@ -69,7 +69,7 @@ Communication between services:
 
 ### 1. Client Management
 - **Client List**
-  ![Client List](images/clients-list.png)
+  ![Client List](images/clients-list.jpg)
 - **Add New Client**
   ![Add Client Form](images/add-client.png)
 
